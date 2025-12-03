@@ -1,0 +1,2 @@
+cve_id,exploitdb_found,exploitdb_links,exploitdb_titles,nvd_found,nvd_chosen_cvss_version,nvd_chosen_baseScore,nvd_highest_baseScore,nvd_cvss_entries_count
+CVE-2021-34527,no,,,no,,,,0
